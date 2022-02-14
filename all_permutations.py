@@ -51,5 +51,3 @@ print('Всевозможные перестановки множества:')
 
 print_permutation(a)
 next_set(a, n)
-
-
