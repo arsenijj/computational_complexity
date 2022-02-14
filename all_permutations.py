@@ -49,5 +49,6 @@ print('Исходное множество: ', end='')
 print(*a, sep=', ')
 print('Всевозможные перестановки множества:')
 
+
 print_permutation(a)
 next_set(a, n)
